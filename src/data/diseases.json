@@ -1,0 +1,61 @@
+[
+  {
+    "id": "marfan-syndrome",
+    "name": "Marfan Syndrome",
+    "category": "Rare Bone/Connective Tissue",
+    "orphanetId": "ORPHA:558",
+    "symptoms": [
+      { "id": "mfs-1", "name": "Ectopia lentis", "frequency": "Frequent" },
+      { "id": "mfs-2", "name": "Aortic root aneurysm", "frequency": "Obligatory/Always" },
+      { "id": "mfs-3", "name": "Arachnodactyly", "frequency": "Frequent" },
+      { "id": "mfs-4", "name": "Pectus excavatum", "frequency": "Occasional" },
+      { "id": "mfs-5", "name": "Dural ectasia", "frequency": "Frequent" },
+      { "id": "mfs-6", "name": "Mitral valve prolapse", "frequency": "Frequent" }
+    ],
+    "geneticTests": [
+      {
+        "geneSymbol": "FBN1",
+        "method": "Sequence analysis of the entire coding methodology"
+      }
+    ]
+  },
+  {
+    "id": "huntington-disease",
+    "name": "Huntington Disease",
+    "category": "Rare Neurological",
+    "orphanetId": "ORPHA:399",
+    "symptoms": [
+      { "id": "hd-1", "name": "Chorea", "frequency": "Obligatory/Always" },
+      { "id": "hd-2", "name": "Cognitive decline", "frequency": "Frequent" },
+      { "id": "hd-3", "name": "Psychiatric disturbances", "frequency": "Frequent" },
+      { "id": "hd-4", "name": "Weight loss", "frequency": "Occasional" },
+      { "id": "hd-5", "name": "Dysarthria", "frequency": "Frequent" }
+    ],
+    "geneticTests": [
+      {
+        "geneSymbol": "HTT",
+        "method": "Targeted mutation analysis (CAG repeat expansion)"
+      }
+    ]
+  },
+  {
+    "id": "gaucher-disease",
+    "name": "Gaucher Disease",
+    "category": "Rare Metabolic",
+    "orphanetId": "ORPHA:355",
+    "symptoms": [
+      { "id": "gd-1", "name": "Splenomegaly", "frequency": "Obligatory/Always" },
+      { "id": "gd-2", "name": "Hepatomegaly", "frequency": "Frequent" },
+      { "id": "gd-3", "name": "Thrombocytopenia", "frequency": "Frequent" },
+      { "id": "gd-4", "name": "Bone pain", "frequency": "Frequent" },
+      { "id": "gd-5", "name": "Anemia", "frequency": "Frequent" },
+      { "id": "gd-6", "name": "Erlenmeyer flask deformity", "frequency": "Occasional" }
+    ],
+    "geneticTests": [
+      {
+        "geneSymbol": "GBA",
+        "method": "Sequence analysis of the entire coding methodology"
+      }
+    ]
+  }
+]

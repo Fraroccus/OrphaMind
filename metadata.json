@@ -1,0 +1,5 @@
+{
+  "name": "OrphaMind",
+  "description": "A vibrant clinical decision support tool for rare diseases using Orphanet-based weighted symptom scoring and genetic validation.",
+  "requestFramePermissions": []
+}
